@@ -32,6 +32,7 @@ To view a working demo, head to [this section](#View-working-demo)
 
 https://github.com/samuelstaflin/stugor-react
 
+### Start coding
 1. The repository for project-devolopment can be found on [this link.](https://github.com/samuelstaflin/stugor-react)
 2. Presss **Code** then **Download Zip** or **Open with Github Desktop**
 3. Open `/stugor-react` in terminal
@@ -39,4 +40,12 @@ https://github.com/samuelstaflin/stugor-react
 > npm install
 
 > npm run dev
-5. 
+5. Live demo can be found on http://localhost:3000/
+6. You may now start coding in your prefered development environment.
+
+### Build
+1. Open `/stugor-react` in terminal
+2. Run the following command
+> npm run export
+3. 
+
