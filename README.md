@@ -20,6 +20,8 @@ To view a working demo, head to [this section.](#2.-view-working-demo)
 
 ### 1.2 Background 
 
+The site is supposed to be the home for information and booking surrounding plenty of winter cabins in the Scandinavian Mountains. 
+
 ## 2. View working demo
 
 1. Go to https://github.com/samuelstaflin/stugor
