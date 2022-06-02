@@ -1,11 +1,11 @@
 # Sälen stugor - project
 
 ### Table of Contents
-1. [Project Information](#project-information)
+1. [Project Information](#1.-project-information)
    1. Disclaimer
    2. Background
-2. [View working demo](#View-working-demo)
-3. [Development](#development)
+2. [View working demo](#2.-view-working-demo)
+3. [Development](#3.-development)
    1. Start coding
    2. Build
 
@@ -16,7 +16,7 @@ https://samuelstaflin.github.io/stugor/
 
 The website is supposed to be shown on the link above, though a bug remains where Github Pages won't read other files than **index.html**.
 
-To view a working demo, head to [this section](#View-working-demo)
+To view a working demo, head to [this section.](#2.-view-working-demo)
 
 ### 1.2 Background 
 
