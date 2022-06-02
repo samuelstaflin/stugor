@@ -6,6 +6,8 @@
    2. Background
 2. [View working demo](#View-working-demo)
 3. [Development](#development)
+   1. Start coding
+   2. Build
 
 ## 1. Project Information
 
@@ -30,13 +32,11 @@ To view a working demo, head to [this section](#View-working-demo)
 
 https://github.com/samuelstaflin/stugor-react
 
-The repository for project-devolopment can be found on the link above.
-
-Download Zip-file or clone Repo
-
-Open `/stugor-react` in terminal
-
+1. The repository for project-devolopment can be found on [this link.](https://github.com/samuelstaflin/stugor-react)
+2. Presss **Code** then **Download Zip** or **Open with Github Desktop**
+3. Open `/stugor-react` in terminal
+4. Run the following commands.
 > npm install
 
 > npm run dev
-
+5. 
