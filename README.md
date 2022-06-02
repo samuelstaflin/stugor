@@ -47,5 +47,6 @@ https://github.com/samuelstaflin/stugor-react
 1. Open `/stugor-react` in terminal
 2. Run the following command
 > npm run export
-3. 
+3. The newly created files can be found in `/stugor-react/out`
+4. Open **Index.html** to se the built website.
 
